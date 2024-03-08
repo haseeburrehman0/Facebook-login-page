@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+:root {
+    --primary: #149F39;
+    --secondory: #FFC066;
+}
+
 body p {
     line-height: 19px;
 }
@@ -24,7 +29,14 @@ body p {
 
 .hero-text h6 {
     padding: 15px;
-    background-color: green;
-    width: 205px;
+    background-color: var(--primary);
+    width: 198px;
+    color: #fff;
+}
+
+.hero-text h2 {
+    width: 225px;
+    background-color: var(--secondory);
+    padding: 20px;
     color: #fff;
 }
