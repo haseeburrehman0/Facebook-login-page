@@ -18,6 +18,10 @@ body p {
     margin: 0 auto;
 }
 
+.section-three {
+    margin-top: 80px;
+}
+
 .hero-section img {
     width: 512px;
     height: 514px;
