@@ -36,8 +36,7 @@ nav {
 }
 
 .hero-section img {
-    width: 400px;
-    height: 400px;
+    width: 50%;
 }
 
 .hero-text h1 {
@@ -98,4 +97,17 @@ nav {
     height: 332px;
     background-color: #FFF0DB;
     margin-top: 100px;
+}
+
+.input-footer{
+    width: 262px;
+    height: 24px;
+}
+
+#footer-box {
+    padding: 80px 0;
+}
+
+@media(500px){
+    
 }
