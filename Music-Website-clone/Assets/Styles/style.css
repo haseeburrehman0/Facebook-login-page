@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: poppins;
+}
+
+:root {
+    --primary : #270082;
+    --secondry : #fff;
+}
+
+.main-container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.navbar-box {
+    width: 100%;
+    height: 55px;
+    background-color: #270082;
+}
+
+.nav-text a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-text a > i {
+    color: var(--secondry);
+    font-size: 40px;
+}
+
+.logo h3 {
+    color: var(--secondry);
+}
+
