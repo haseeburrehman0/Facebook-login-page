@@ -21,7 +21,7 @@ body {
 .navbar-box {
     width: 100%;
     height: 55px;
-    background-color: #270082;
+    background-color: #281154;
 }
 
 .nav-text a {
@@ -41,6 +41,9 @@ body {
 .header-section {
     width: 100%;
     height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     background-image: url(/Assets/Images/hero_image.png);
 }
 
@@ -49,6 +52,16 @@ body {
     color: #fff;
 }
 
-.header-one h5,p{
+.header-one h6,p{
     color: #fff;
+}
+
+.header-one {
+    padding-top: 180px;
+}
+
+.section-three {
+    background-color: #281154;
+    width: 100%;
+    height: 806px;
 }
