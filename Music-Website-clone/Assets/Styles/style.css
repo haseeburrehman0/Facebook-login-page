@@ -6,6 +6,7 @@
 
 body {
     font-family: poppins;
+    line-height: 19px;
 }
 
 :root {
@@ -65,3 +66,38 @@ body {
     width: 100%;
     height: 806px;
 }
+
+.Section-three-text {
+    padding: 80px;
+}
+
+.Section-three-text p{
+    line-height: 24px;
+}
+
+.Section-three-text h1 {
+    color: #fff;
+}
+
+.Section-three-text h3 {
+    color: #fff;
+}
+
+.Section-three-text button {
+    padding: 15px;
+    outline: none;
+    border: none;
+    background-color: #fc0f0f;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
