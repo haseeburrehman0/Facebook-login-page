@@ -42,8 +42,6 @@ body {
 .header-section {
     width: 100%;
     height: 100vh;
-    background-repeat: no-repeat;
-    background-position: center;
     background-size: cover;
     background-image: url(/Assets/Images/hero_image.png);
 }
@@ -87,11 +85,33 @@ body {
     padding: 15px;
     outline: none;
     border: none;
-    background-color: #fc0f0f;
+    background-color: #cd0202;
     color: #fff;
 }
 
+.section-four-text h5 {
+    margin-top: 360px;
+}
 
+.section-four-text p {
+    color: #676767;
+}
+
+.section-four-text button {
+    padding: 15px;
+    outline: none;
+    border: none;
+    background-color: #270082;
+    color: #fff;
+}
+
+.Section-three-text img {
+    width: 80%;
+}
+
+.section-five-text img {
+    width: 90%;
+}
 
 
 
