@@ -134,9 +134,22 @@ body {
     border: none;
 }
 
+.footer-box-seven {
+    width: 100%;
+    height: 320px;
+    background-color: var(--primary);
+}
 
+body a {
+    color: #e3e3e3;
+    text-decoration: none;
+}
 
-
+.footer-box-color {
+    width: 100%;
+    height: 80px;
+    background-color: #4403da;
+}
 
 
 
