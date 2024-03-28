@@ -113,6 +113,26 @@ body {
     width: 90%;
 }
 
+.section-five-img {
+    background-image: url(../Images/video.png);
+    width: 100%;
+    height: 100vh;
+}
+
+.section-five {
+    padding-top: 200px;
+}
+
+.section-six-box img {
+    width: 100%;
+}
+
+.button-redeem {
+    outline: none;
+    background-color: #281154;
+    color: #fff;
+    border: none;
+}
 
 
 
