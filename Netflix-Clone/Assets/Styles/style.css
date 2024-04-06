@@ -110,6 +110,22 @@
     line-height: 32px;
 }
 
-.section-image img {
+/* SECTION THREE STYLING */
 
+.section-text-one h1{
+    font-size: 55px;
+    font-weight: bolder;
+    color: #fff;
+}
+
+.section-text-one p {
+    font-size: 22px;
+    color: #fff;
+    line-height: 32px;
+}
+
+.section-three {
+    width: 100%;
+    height: 500px;
+    background-color: #000000;
 }
