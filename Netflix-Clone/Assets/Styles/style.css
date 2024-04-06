@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #e50914;
+    --secondry: #232323;
+    --third: #000000;
+}
+
+.background-img {
+    width: 100%;
+    height: 100vh;
+    background-image: url(/Assets/Images/PK-en-20240326-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+}
+
+.signup-btn button {
+    padding: 5px;
+    width: 90px;
+    height: 36px;
+    border-radius: 5px;
+    background-color: var(--primary);
+    border: none;
+    color: #fff;
+}
+
+.logo-netflix img {
+    width: 180px;
+}
