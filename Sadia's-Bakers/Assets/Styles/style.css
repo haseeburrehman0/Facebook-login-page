@@ -60,6 +60,25 @@
     font-weight: bold;
 }
 
+.Gallery-section h1 {
+    font-size: 65px;
+    font-weight: bold;
+}
+
+/* FOOTER SECTION CSS */
+
+.footer-section footer h1 {
+    font-size: 35px;
+}
+
+.footer-images img {
+    width: 50px;
+}
+
+.footer-images {
+    margin-left: 550px;
+    margin-top: 20px;
+}
 
 
 
