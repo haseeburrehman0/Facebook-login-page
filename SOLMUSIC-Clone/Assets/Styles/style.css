@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary : #08192d;
+    --secondry : #fc0254;
+}
+
+.color-change {
+    color: var(--secondry);
+}
+
+body a, p{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+}
+
+#Background {
+    background-color: var(--primary);
+}
+
+.nav-box {
+    gap: 50px;
+   
+}
+
+.mt-6 {
+    margin-top: 80px;
+}
+
+.mt-7 {
+    margin-top: 100px;
+}
+
+
+.nav-box a:hover {
+    color: var(--secondry);
+    
+}
+.create a {
+    color: var(--secondry);
+}
+
+.nav-box img{
+    width: 150px;
+    height: 25px;
+}
+
+.main-header h1{
+    font-size: 65px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.downbtn {
+    background-color: var(--secondry);
+    padding: 15px;
+    width: 150px;
+    border-radius: 50px;
+    outline: none;
+    border: none;
+    color: #fff;
+}
+
+.Trialbtn{
+    background-color: #383b70;
+    padding: 15px;
+    width: 150px;
+    border-radius: 50px;
+    outline: none;
+    border: none;
+    color: #fff;
+}
+
+.section-three {
+    background-color: #fff;
+    width: 100%;
+    height: 400px;
+    margin-top: 100px;
+}
+
+.sectionthree {
+    margin-top: 120px;
+}
+
+.sectionthree h1 {
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.sectionthree p {
+    color: #08192d;
+}
+
+.sectionFour h1 {
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.section-five {
+    width: 100%;
+    height: 600px;
+    background-color: #fff;
+    margin-top: 120px;
+}
+
+.section-five h1 {
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.box-size {
+    width: 250px;
+    height: 250px;
+    background-color: #383b70;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.section-six-text h1 {
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.section-six-text h2 {
+    color: var(--secondry);
+}
+
+.subscribtion-box {
+    width: 500px;
+    height: 400px;
+    background-color: #1c294a;
+    border-radius: 50px;
+}
+
+.subscribtion-box p {
+    font-size: 25px;
+}
+
+.section-seven {
+    width: 100%;
+    height: 550px;
+    margin-top: 50px;
+    background-color: #fff;
+}
+
+.Premium-section h1 {
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.circle-box {
+    width: 190px;
+    height: 190px;
+    border-radius: 100px;
+    overflow: hidden;
+    background-color: #383b70;
+    
+}
+
+.footer-sec {
+    padding-top: 100px;
+}
+
+.footer-section div> p {
+    font-size: 12px;
+    color: gray;
+}
+
+.footer-section div> i {
+    color: gray;
+    font-size: 20px;
+}
+
+.footer-section div> a {
+    color: gray;
+    line-height: 40px;
+}
+
+.footer-section {
+    padding-bottom: 100px;
+}
